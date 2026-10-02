@@ -1,4 +1,5 @@
 //Atributos
+
     private int id;
     private int cedula;
     private String nombres;
